@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justingoldstein
 - 👀 I’m interested in Ecommerce website development and Data Analytics
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Quasar
 - 📫 Reach me on justin.goldstein@gmail.com
 
 <!---
